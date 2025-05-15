@@ -5,4 +5,6 @@ This app is a lot more advanced than the previous app that I had made using flut
 # Features
 Displays live updates of current timezones around the world.
 Compares timezones of selected countries.
-Easy to use, colourful UI
+Easy to use, colourful UI.
+# Purpose
+This app is purely for developing more skills on Flutter.
